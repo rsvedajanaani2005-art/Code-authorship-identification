@@ -141,16 +141,10 @@ Put all `.parquet` files inside:
 data/
 ```
 
-### 3️. Train
+### 3️. Train and Inference
 
 ```bash
-python train.py
-```
-
-### 4️. Inference
-
-```bash
-python inference.py
+python train_and_inference.py
 ```
 
 Submission file will be generated as:
