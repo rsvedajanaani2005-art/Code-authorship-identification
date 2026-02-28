@@ -61,6 +61,8 @@ Dataset size:
 - Validation: 100,000 samples
 - Test: 500,000 samples
 
+### Dataset is available on the competition website (link in about)
+
 ---
 
 ## Approach
